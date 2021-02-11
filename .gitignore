@@ -1,0 +1,5 @@
+# IDEs and editors
+/.metadata
+.project
+.classpath
+.settings/
